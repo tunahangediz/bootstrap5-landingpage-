@@ -1,0 +1,57 @@
+
+body {
+    display: block;
+    overflow-x: hidden;
+
+}
+.nav-link{
+    font-size: 1.3rem;
+}
+p{
+    font-size: 1.2rem;
+}
+
+
+.logo{
+    width:3.5rem;
+    padding: 0.5rem;
+    position: relative;
+
+}
+.navbar-brand{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.bg-section-dark{ background-color: #B4F8C8;
+}
+.off-set{
+    width: 100%;
+    height: 100px;
+    background-color: #B4F8C8;
+}
+
+.btn{
+    background-color: #F49849!important ;
+    border-color: #F49849 !important;
+    color: black !important;
+    font-weight: 400 !important;
+    border-radius: 50px !important;
+
+
+}
+.icon1{
+    font-size: 100px;
+    color:hsl(244, 57%, 60%);
+    
+}
+#ability .container .card{
+box-shadow:0 0.75rem 1.5rem rgba(18,38,63,.03);
+text-align: center; 
+
+}
+#ability .container .card:hover{
+    box-shadow:3px 0px 18px 7px rgba(0,0,0,0.15) ;
+}
+
+
+
